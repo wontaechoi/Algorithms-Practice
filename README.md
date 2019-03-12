@@ -12,3 +12,12 @@
 
 2019.03.07
 - Stack/쇠막대기 <https://programmers.co.kr/learn/courses/30/lessons/42585>
+
+2019.03.11
+- List/Min Max [SW Expert Academy/Course/Programming-Intermediate/List1](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
+- List/전기 버스 [SW Expert Academy/Course/Programming-Intermediate/List1](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
+- List/숫자 카드 [SW Expert Academy/Course/Programming-Intermediate/List1](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
+- List/구간합 [SW Expert Academy/Course/Programming-Intermediate/List1](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
+
+2019.03.12
+- List/색칠하기 [SW Expert Academy/Course/Programming-Intermediate/List2](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
