@@ -21,3 +21,9 @@
 
 2019.03.12
 - List/색칠하기 [SW Expert Academy/Course/Programming-Intermediate/List2](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
+
+2019.03.13
+- List/특별한 정렬 [SW Expert Academy/Course/Programming-Intermediate/List2](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
+- List/이진탐색 [SW Expert Academy/Course/Programming-Intermediate/List2](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
+- String/문자열 비교 [SW Expert Academy/Course/Programming-Intermediate/String](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
+- String/회문 [SW Expert Academy/Course/Programming-Intermediate/String](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
