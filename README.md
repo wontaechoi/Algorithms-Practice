@@ -27,3 +27,4 @@
 - List/이진탐색 [SW Expert Academy/Course/Programming-Intermediate/List2](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
 - String/문자열 비교 [SW Expert Academy/Course/Programming-Intermediate/String](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
 - String/회문 [SW Expert Academy/Course/Programming-Intermediate/String](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
+- String/ [SW Expert Academy/Course/Programming-Intermediate/String](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
