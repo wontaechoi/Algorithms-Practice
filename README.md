@@ -47,3 +47,15 @@
 
 2019.03.21
 - Queue/회전 [SW Expert Academy/Course/Programming-Intermediate/Queue](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
+- Queue/미로의 거리 [SW Expert Academy/Course/Programming-Intermediate/Queue](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
+- Queue/노드의 거리 [SW Expert Academy/Course/Programming-Intermediate/Queue](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
+- Queue/피자 굽기 [SW Expert Academy/Course/Programming-Intermediate/Queue](<https://swexpertacademy.com/main/learn/course/subjectList.do?courseId=AVuPDN86AAXw5UW6>)
+
+2019.03.25
+- Dynamic Programming/1로 만들기 [백준 1463](<http://boj.kr/1463>)
+- Dynamic Programming/2xn 타일링 [백준 11726](<http://boj.kr/11726>)
+- Dynamic Programming/2xn 타일링 2 [백준 11727](<http://boj.kr/11727>)
+- Dynamic Programming/1, 2, 3 더하기 [백준 9095](<http://boj.kr/9095>)
+- Dynamic Programming/쉬운 계단 수 [백준 10844](<http://boj.kr/10844>)
+- Dynamic Programming/오르막수 [백준 11057](<http://boj.kr/11057>)
+- Dynamic Programming/이친수 [백준 2193](<http://boj.kr/2193>)
