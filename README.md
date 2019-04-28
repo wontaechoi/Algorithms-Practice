@@ -60,5 +60,5 @@
 - Dynamic Programming/오르막수 [백준 11057](<http://boj.kr/11057>)
 - Dynamic Programming/이친수 [백준 2193](<http://boj.kr/2193>)
 
-2019.04
-삼성 기출 문제 (<https://www.acmicpc.net/workbook/view/1152>)
+2019.04  
+- 삼성 기출 문제 (<https://www.acmicpc.net/workbook/view/1152>)
